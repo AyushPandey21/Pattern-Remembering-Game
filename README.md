@@ -1,11 +1,15 @@
 # Pattern-Remembering-Game
 Pattern Remembering Game - You have to remember the color pattern , starting from the first blinking color to the last blinking color.
 
+# Index
+- How to run
+- How to play
+
 
 ## How to run
 - Download all the files and store them in the same folder.
 - Open the file named "index.html" in the browser.
-- You can now check the weather details of any city in the world.
+- You can now start playing the game. 
 
 
 ## How to play
