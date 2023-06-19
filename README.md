@@ -6,13 +6,13 @@ Pattern Remembering Game - You have to remember the color pattern , starting fro
 - How to play
 
 
-## How to run
+### How to run
 - Download all the files and store them in the same folder.
 - Open the file named "index.html" in the browser.
 - You can now start playing the game. 
 
 
-## How to play
+### How to play
 - Press any key to start the game.
 - Level 1 would start.
 - One of the 4 colors would blink, remember that color.
